@@ -1,9 +1,0 @@
-W           - Sali                          F1      - On/Off Wireframe
-S           - Scendi                        F2      - On/Off Stencil
-A           - Sinistra                      F3      - Flat/Gouraud Shading
-D           - Destra                        F4      - Luce Direzionale/Puntiforme 
-Space     - Accellera                    F11     - DebugInfo
-P          - Pausa
-R           - Cambia Camera
-Mouse      - Gestione Camera
-Esc         - Torna indietro
